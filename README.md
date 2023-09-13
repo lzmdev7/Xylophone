@@ -26,3 +26,6 @@ En este proyecto aprendemos lo siguiente:
 - 📥 Crear funciones con inputs
 
 *Aviso: Este proyecto contiene mis comentarios personales. Utilizo GitHub para guardar mi progreso de aprendizaje y que si vuelvo a este proyecto en un futuro pueda entender qué está pasando en el código.*
+
+ ### Visualización final / Final display
+![main image of the app/imagen principal de la aplicación](https://github.com/lzmdev7/Xylophone/blob/main/XylophoneScreenshot.png)
